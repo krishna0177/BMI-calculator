@@ -1,0 +1,48 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+html,body{
+     height: 100%;
+     width: 100%;
+}
+.nav{
+     height: 60vh;
+     width: 50vw;
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     transform: translate(-50% , -50%);
+     background: grey;
+ 
+
+
+}
+.nav h1{
+     margin-left: 50px;
+}
+form{
+     margin-top: 20px;
+     margin-left: 50px;
+     
+
+}
+p{
+     padding: 10px;
+     font-size: 20px;
+}
+button{
+     width: 130px;
+     height: 30px;
+     margin-left: 20%;
+     margin-top: 20px;
+     border-radius: 20px;
+     border: none;
+     
+}
+.bmi-guide{
+     margin-top: 20px;
+     margin-left:20px;
+
+}
